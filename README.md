@@ -32,7 +32,7 @@ I'm committed to continuous learning and currently exploring advancements in:
 
 I'm always eager to connect with fellow data science and machine learning enthusiasts to share ideas, collaborate on projects, and drive meaningful change through data-driven solutions. 
 
-- [LinkedIn](www.linkedin.com/in/kaustubh-rastogi)
+- [LinkedIn](https://www.linkedin.com/in/kaustubh-rastogi/)
 - [Email](mailto:rastogikaustubh1586@gmail.com)
 
 <!---
