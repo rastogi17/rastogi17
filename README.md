@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and results-oriented aspiring Dat
   - **B.Sc. in Transport Tech** from National Rail and Transportation Institute
 
 - 💼 **Professional Experience:**
+  - **Business Analyst** at Flipkart
   - **Data Science Consultant Intern** at Palo Alto Strategy Group
   - **Regional Logistics Officer** at Aditya Birla Group
   - **Research Intern** at Siemens Ltd
